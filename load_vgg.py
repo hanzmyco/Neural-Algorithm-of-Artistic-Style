@@ -2,10 +2,9 @@
 of the paper A Neural Algorithm of Artistic Style (Gatys et al., 2016) 
 
 Created by Chip Huyen (chiphuyen@cs.stanford.edu)
-CS20: "TensorFlow for Deep Learning Research"
-cs20.stanford.edu
 
-For more details, please read the assignment handout:
+
+Implement by Han Zhang (hanzmyco@gmail.com)
 
 """
 import numpy as np
